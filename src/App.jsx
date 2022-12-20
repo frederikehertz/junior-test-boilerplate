@@ -1,15 +1,12 @@
-import { ImageList } from './components';
+import { Container } from './components';
 
 function App() {
   return (
     <>
-      <header>
-        <h1>Тестовое задание</h1>
-      </header>
       <main>
-        <section>
-          <ImageList />
-        </section>
+        <div>
+          <Container />
+        </div>
       </main>
     </>
   );

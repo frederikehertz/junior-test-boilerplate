@@ -1,0 +1,28 @@
+.card {
+    margin-top: 20px;
+    background-color: transparent;
+    overflow: hidden;
+    width: 240px;
+    height:min-content;
+    position: relative;
+}
+
+.cardImage {
+    border-radius: 10px;
+    width: 100%;
+    display: block;
+}
+
+.cardTextBox {
+    position: relative;
+    background-color: transparent;
+    padding-left: 14px;
+    padding-top: 4px;
+    padding-bottom: 30px;
+}
+
+.date {
+    color: #fff;
+    text-align: left;
+    font-size: 14px;
+}

@@ -1,0 +1,10 @@
+.button {
+    color: #3ba55c;
+    cursor: pointer;
+    user-select: none;
+    background: transparent;
+    border: 0px;
+    position: absolute;
+    top: 3px;
+    right: 32px;
+}
